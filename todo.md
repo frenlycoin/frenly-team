@@ -7,6 +7,8 @@
 - [ ] website - build basic
 - [ ] website - setup github
 - [ ] website - setup cloudflare
+- [ ] start the chain
+- [ ] node - build first version
 
 #### TODO - BACKLOG
 
