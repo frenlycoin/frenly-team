@@ -4,7 +4,9 @@
 
 #### TODO - v1.0 (MVP)
 
-- [ ] todo
+- [ ] website - build basic
+- [ ] website - setup github
+- [ ] website - setup cloudflare
 
 #### TODO - BACKLOG
 
