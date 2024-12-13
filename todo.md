@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] frenly github app
 - [ ] frenly tg app
 - [ ] frenly rebranding
 - [ ] TMU -> CS
@@ -108,3 +107,4 @@
 - [x] setup @FrenlyRobot
 - [x] frenly github
 - [x] frenly server
+- [x] frenly github app
