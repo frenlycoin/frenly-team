@@ -2,18 +2,109 @@
 
 ## FrenlyCoin
 
-#### TODO - v1.0 (MVP)
+## TODO v1.0
 
-- [ ] website - build basic
-- [ ] website - setup github
-- [ ] website - setup cloudflare
-- [ ] start the chain
-- [ ] node - build first version
+- [ ] setup frenly bot
+- [ ] setup frenly web app
+- [ ] frenly app
+- [ ] frenly rebranding
+- [ ] TMU -> CS
+- [ ] explain 1% better
+- [ ] app - referral stats
+- [ ] app - mining cycle status
+- [ ] automatic compounding
+- [ ] automatic daily mining cycle
+- [ ] premium package
+- [ ] FAQ
+- [ ] testing
+- [ ] texts
+- [ ] cycle - automatic channel msg
 
-#### TODO - BACKLOG
+## BACKLOG
 
-- [ ] backlog
+- [ ] db backup
+- [ ] withdrawal - comment
+- [ ] make UI more consistent
+- [ ] better relative UI sizes
+- [ ] simple amm
+- [ ] secure everything more
+- [ ] test env
+- [ ] twitter share (tasks)
+- [ ] website
+- [ ] TMU token
+- [ ] TON Crush game
 
-#### DONE
+## DONE v1.0
 
-- [x] done
+- [x] setup group
+- [x] setup channel
+- [x] setup bot
+- [x] setup app
+- [x] build basic backend
+- [x] deploy basic backend
+- [x] build basic user registration
+- [x] connect basic backend
+- [x] basic referral program
+- [x] tg username issue
+- [x] ref initial
+- [x] start mining
+- [x] production
+- [x] save name too
+- [x] secure referral system
+- [x] new TMU
+- [x] basic stats command
+- [x] basic rankings command
+- [x] split payment
+- [x] more stats
+- [x] handle back properly
+- [x] hijack channel
+- [x] contact
+- [x] channel subscription check
+- [x] settings screen
+- [x] withdraw
+- [x] minimum withdraw
+- [x] live withdraw screen
+- [x] check if member of the group
+- [x] fix panic
+- [x] minimum mint
+- [x] new user notification
+- [x] update group
+- [x] web stats
+- [x] ton city rebranding
+- [x] create private group for city leaders
+- [x] setup new bot
+- [x] re-branding descriptions and names
+- [x] update bot in app
+- [x] update bot on server
+- [x] withdraw fee info
+- [x] build new bot notification
+- [x] old app redirect
+- [x] send new bot notification
+- [x] fix navigation
+- [x] daily cycle channel message
+- [x] first channel notification
+- [x] fix typo in channel notification
+- [x] make group message red
+- [x] cycle - app already mining
+- [x] cycle - restart notification
+- [x] cycle - bot is cycle active
+- [x] cycle - bot restart mining
+- [x] cycle - app not mining
+- [x] cycle - app restart mining
+- [x] navigation issue
+- [x] speed up stats (preloading)
+- [x] restart compound bug
+- [x] two new user notifications bug
+- [x] stats - active miners
+- [x] count mining cycles
+- [x] restart cycle - tmu counter
+- [x] use mining cycle in rewards
+- [x] TMU mint delay
+- [x] cycle count total bug
+- [x] model bug
+- [x] fix add tmu (rebuilt deposit system)
+- [x] disable withdraw
+- [x] new tmu bug
+- [x] minimum mint issue
+- [x] setup @FrenlyRobot
+- [x] frenly github
