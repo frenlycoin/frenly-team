@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] frenly server
 - [ ] frenly github app
 - [ ] frenly tg app
 - [ ] frenly rebranding
@@ -108,3 +107,4 @@
 - [x] minimum mint issue
 - [x] setup @FrenlyRobot
 - [x] frenly github
+- [x] frenly server
