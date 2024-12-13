@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] app - change logo
 - [ ] migration message
 - [ ] update channel posts
 - [ ] TMU -> CS
