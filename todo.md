@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] frenly rebranding
 - [ ] migration message
 - [ ] update channel posts
 - [ ] TMU -> CS
@@ -112,3 +111,4 @@
 - [x] frenly tg app
 - [x] update links
 - [x] bot commands
+- [x] frenly rebranding
