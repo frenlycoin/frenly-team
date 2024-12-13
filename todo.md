@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] frenly tg app
 - [ ] frenly rebranding
 - [ ] TMU -> CS
 - [ ] explain 1% better
@@ -108,3 +107,5 @@
 - [x] frenly github
 - [x] frenly server
 - [x] frenly github app
+- [x] frenly tg app
+- [x] update links
