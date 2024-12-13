@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] bot commands
 - [ ] frenly rebranding
 - [ ] TMU -> CS
 - [ ] explain 1% better
