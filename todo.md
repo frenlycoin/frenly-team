@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] bot commands
 - [ ] frenly rebranding
 - [ ] TMU -> CS
 - [ ] explain 1% better
@@ -110,3 +109,4 @@
 - [x] frenly github app
 - [x] frenly tg app
 - [x] update links
+- [x] bot commands
