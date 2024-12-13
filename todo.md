@@ -5,6 +5,8 @@
 ## TODO v1.0
 
 - [ ] frenly rebranding
+- [ ] migration message
+- [ ] update channel posts
 - [ ] TMU -> CS
 - [ ] explain 1% better
 - [ ] app - referral stats
