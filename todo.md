@@ -4,6 +4,8 @@
 
 ## TODO v1.0
 
+- [ ] rebuild restart procedure
+- [ ] use bot for referrals
 - [ ] migration message and notification
 - [ ] explain 1% better
 - [ ] app - referral stats
