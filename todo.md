@@ -14,6 +14,7 @@
 - [ ] testing
 - [ ] texts
 - [ ] cycle - automatic channel msg
+- [ ] finish migration (app & notification)
 
 ## BACKLOG
 
