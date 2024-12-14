@@ -20,6 +20,7 @@
 
 ## BACKLOG
 
+- [ ] both bottom buttons check
 - [ ] db backup
 - [ ] withdrawal - comment
 - [ ] make UI more consistent
