@@ -25,7 +25,6 @@
 - [ ] db backup
 - [ ] withdrawal - comment
 - [ ] make UI more consistent
-- [ ] better relative UI sizes
 - [ ] simple amm
 - [ ] secure everything more
 - [ ] test env
@@ -121,3 +120,4 @@
 - [x] compound bot button
 - [x] use bot for referrals
 - [x] migration message and notification
+- [w] better relative UI sizes
