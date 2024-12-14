@@ -4,7 +4,7 @@
 
 ## TODO v1.0
 
-- [ ] migration message
+- [ ] migration message and notification
 - [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] app - mining cycle status
