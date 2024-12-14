@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] TMU -> CS
 - [ ] app - change logo
 - [ ] migration message
 - [ ] update channel posts
@@ -113,3 +112,4 @@
 - [x] update links
 - [x] bot commands
 - [x] frenly rebranding
+- [x] TMU -> CS
