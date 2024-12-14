@@ -4,7 +4,7 @@
 
 ## TODO v1.0
 
-- [ ] rebuild restart procedure
+- [ ] compound bot button
 - [ ] use bot for referrals
 - [ ] migration message and notification
 - [ ] explain 1% better
@@ -20,6 +20,8 @@
 
 ## BACKLOG
 
+- [ ] send compounding notification
+- [ ] show TON on counter too
 - [ ] filter fake users
 - [ ] both bottom buttons check
 - [ ] db backup
@@ -117,3 +119,4 @@
 - [x] TMU -> CS
 - [x] app - change logo
 - [x] update channel posts
+- [x] rebuild restart procedure
