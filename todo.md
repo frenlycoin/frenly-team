@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] migration message and notification
 - [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] app - mining cycle status
@@ -120,3 +119,4 @@
 - [x] rebuild restart procedure
 - [x] compound bot button
 - [x] use bot for referrals
+- [x] migration message and notification
