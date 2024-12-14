@@ -114,7 +114,7 @@
 - [x] update links
 - [x] bot commands
 - [x] frenly rebranding
-- [x] TMU -> CS
+- [x] TMU -> FCS
 - [x] app - change logo
 - [x] update channel posts
 - [x] rebuild restart procedure
