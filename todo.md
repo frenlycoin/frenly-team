@@ -20,6 +20,7 @@
 
 ## BACKLOG
 
+- [ ] filter fake users
 - [ ] both bottom buttons check
 - [ ] db backup
 - [ ] withdrawal - comment
