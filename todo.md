@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] compound bot button
 - [ ] use bot for referrals
 - [ ] migration message and notification
 - [ ] explain 1% better
@@ -120,3 +119,4 @@
 - [x] app - change logo
 - [x] update channel posts
 - [x] rebuild restart procedure
+- [x] compound bot button
