@@ -5,7 +5,6 @@
 ## TODO v1.0
 
 - [ ] migration message
-- [ ] update channel posts
 - [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] app - mining cycle status
@@ -113,3 +112,4 @@
 - [x] frenly rebranding
 - [x] TMU -> CS
 - [x] app - change logo
+- [x] update channel posts
