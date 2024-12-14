@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] use bot for referrals
 - [ ] migration message and notification
 - [ ] explain 1% better
 - [ ] app - referral stats
@@ -120,3 +119,4 @@
 - [x] update channel posts
 - [x] rebuild restart procedure
 - [x] compound bot button
+- [x] use bot for referrals
