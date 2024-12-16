@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] negative balance fix
 - [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] automatic compounding
