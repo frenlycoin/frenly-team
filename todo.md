@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] old app migration info
 - [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] automatic compounding
@@ -123,3 +122,4 @@
 - [w] better relative UI sizes
 - [x] app - mining cycle status
 - [x] change notification bot
+- [x] old app migration info
