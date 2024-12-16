@@ -6,7 +6,6 @@
 
 - [ ] explain 1% better
 - [ ] app - referral stats
-- [ ] app - mining cycle status
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
 - [ ] premium package
@@ -121,3 +120,5 @@
 - [x] use bot for referrals
 - [x] migration message and notification
 - [w] better relative UI sizes
+- [x] app - mining cycle status
+- [x] change notification bot
