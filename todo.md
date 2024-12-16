@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] old app migration info
 - [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] automatic compounding
