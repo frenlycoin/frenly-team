@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] start - subscribe
 - [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] automatic compounding
