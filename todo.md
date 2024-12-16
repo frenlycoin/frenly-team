@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] negative balance fix
 - [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] automatic compounding
@@ -124,3 +123,4 @@
 - [x] change notification bot
 - [x] old app migration info
 - [x] finish migration (app & notification)
+- [x] negative balance fix
