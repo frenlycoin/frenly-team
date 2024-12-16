@@ -13,7 +13,6 @@
 - [ ] testing
 - [ ] texts
 - [ ] cycle - automatic channel msg
-- [ ] finish migration (app & notification)
 
 ## BACKLOG
 
@@ -123,3 +122,4 @@
 - [x] app - mining cycle status
 - [x] change notification bot
 - [x] old app migration info
+- [x] finish migration (app & notification)
