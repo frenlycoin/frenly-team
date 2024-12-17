@@ -6,7 +6,6 @@
 
 - [ ] position of ranks caller
 - [ ] cycle end time
-- [ ] add title to short messages
 - [ ] staked / reward fcs
 - [ ] explain 1% better
 - [ ] app - referral stats
@@ -133,3 +132,4 @@
 - [x] not subscribed issue
 - [x] new restart post
 - [x] change restart link
+- [x] add title to short messages
