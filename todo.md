@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] not subscribed issue
 - [ ] position of ranks caller
 - [ ] cycle end time
 - [ ] add title to short messages
@@ -131,3 +130,4 @@
 - [x] negative balance fix
 - [x] start - subscribe
 - [x] move percentage to center
+- [x] not subscribed issue
