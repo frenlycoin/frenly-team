@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] position of ranks caller
 - [ ] cycle end time
 - [ ] add title to short messages
 - [ ] staked / reward fcs
