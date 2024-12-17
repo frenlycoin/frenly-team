@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] new restart post
 - [ ] change restart link
 - [ ] position of ranks caller
 - [ ] cycle end time
@@ -133,3 +132,4 @@
 - [x] start - subscribe
 - [x] move percentage to center
 - [x] not subscribed issue
+- [x] new restart post
