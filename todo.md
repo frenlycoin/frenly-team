@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] cycle end time
 - [ ] position of ranks caller
 - [ ] explain 1% better
 - [ ] app - referral stats
@@ -134,3 +133,4 @@
 - [x] add title to short messages
 - [x] new user - reload stats
 - [x] staked / reward fcs
+- [x] cycle end time
