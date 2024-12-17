@@ -6,7 +6,7 @@
 
 - [ ] cycle end time
 - [ ] add title to short messages
-- [ ] staked fcs
+- [ ] staked / reward fcs
 - [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] automatic compounding
