@@ -4,7 +4,7 @@
 
 ## TODO v1.0
 
-- [ ] move percentage to center
+- [ ] cycle end time
 - [ ] add title to short messages
 - [ ] staked fcs
 - [ ] explain 1% better
@@ -128,3 +128,4 @@
 - [x] finish migration (app & notification)
 - [x] negative balance fix
 - [x] start - subscribe
+- [x] move percentage to center
