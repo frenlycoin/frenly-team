@@ -6,7 +6,6 @@
 
 - [ ] cycle end time
 - [ ] position of ranks caller
-- [ ] staked / reward fcs
 - [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] automatic compounding
@@ -134,3 +133,4 @@
 - [x] change restart link
 - [x] add title to short messages
 - [x] new user - reload stats
+- [x] staked / reward fcs
