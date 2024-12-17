@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] start - subscribe
 - [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] automatic compounding
@@ -125,3 +124,4 @@
 - [x] old app migration info
 - [x] finish migration (app & notification)
 - [x] negative balance fix
+- [x] start - subscribe
