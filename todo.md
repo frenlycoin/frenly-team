@@ -4,6 +4,8 @@
 
 ## TODO v1.0
 
+- [ ] new restart post
+- [ ] change restart link
 - [ ] position of ranks caller
 - [ ] cycle end time
 - [ ] add title to short messages
@@ -122,7 +124,7 @@
 - [x] compound bot button
 - [x] use bot for referrals
 - [x] migration message and notification
-- [w] better relative UI sizes
+- [x] better relative UI sizes
 - [x] app - mining cycle status
 - [x] change notification bot
 - [x] old app migration info
