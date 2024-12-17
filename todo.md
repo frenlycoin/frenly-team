@@ -4,6 +4,9 @@
 
 ## TODO v1.0
 
+- [ ] move percentage to center
+- [ ] add title to short messages
+- [ ] staked fcs
 - [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] automatic compounding
