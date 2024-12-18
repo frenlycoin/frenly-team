@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] position of ranks caller
 - [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] automatic compounding
@@ -134,3 +133,4 @@
 - [x] new user - reload stats
 - [x] staked / reward fcs
 - [x] cycle end time
+- [x] position of ranks caller
