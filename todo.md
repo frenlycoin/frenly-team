@@ -4,6 +4,8 @@
 
 ## TODO v1.0
 
+- [ ] progress bar width issue
+- [ ] double notification
 - [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] automatic compounding
