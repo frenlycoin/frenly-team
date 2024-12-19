@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] progress bar width issue
 - [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] automatic compounding
@@ -136,3 +135,4 @@
 - [x] cycle end time
 - [x] position of ranks caller
 - [x] double notification
+- [x] progress bar width issue
