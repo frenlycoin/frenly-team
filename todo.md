@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] save blocked
 - [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] automatic compounding
@@ -138,3 +137,4 @@
 - [x] double notification
 - [x] progress bar width issue
 - [x] tmu on ranks
+- [x] save blocked
