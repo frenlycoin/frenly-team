@@ -137,3 +137,4 @@
 - [x] position of ranks caller
 - [x] double notification
 - [x] progress bar width issue
+- [x] tmu on ranks
