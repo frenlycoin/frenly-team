@@ -143,3 +143,4 @@
 - [x] menu fix
 - [x] settings in menu
 - [x] FAQ
+- [x] possible notification fix
