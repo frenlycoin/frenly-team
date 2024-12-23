@@ -138,3 +138,4 @@
 - [x] progress bar width issue
 - [x] tmu on ranks
 - [x] save blocked
+- [x] put TON in counter
