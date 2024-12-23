@@ -16,6 +16,7 @@
 
 ## BACKLOG
 
+- [ ] add more FAQ entries
 - [ ] send compounding notification
 - [ ] show TON on counter too
 - [ ] filter fake users
