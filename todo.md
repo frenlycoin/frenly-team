@@ -142,3 +142,4 @@
 - [x] put TON in counter
 - [x] prepare x account
 - [x] menu fix
+- [x] settings in menu
