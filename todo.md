@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] prepare x account
 - [ ] group welcome message
 - [ ] explain 1% better
 - [ ] app - referral stats
@@ -141,3 +140,4 @@
 - [x] tmu on ranks
 - [x] save blocked
 - [x] put TON in counter
+- [x] prepare x account
