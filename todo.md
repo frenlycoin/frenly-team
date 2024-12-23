@@ -11,7 +11,7 @@
 - [ ] automatic daily mining cycle
 - [ ] premium package
 - [ ] testing
-- [ ] texts
+- [ ] about screen
 - [ ] cycle - automatic channel msg
 
 ## BACKLOG
