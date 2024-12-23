@@ -4,6 +4,8 @@
 
 ## TODO v1.0
 
+- [ ] prepare x account
+- [ ] group welcome message
 - [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] automatic compounding
