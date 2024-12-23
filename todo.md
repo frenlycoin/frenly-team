@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] FAQ
 - [ ] group welcome message
 - [ ] explain 1% better
 - [ ] app - referral stats
@@ -143,3 +142,4 @@
 - [x] prepare x account
 - [x] menu fix
 - [x] settings in menu
+- [x] FAQ
