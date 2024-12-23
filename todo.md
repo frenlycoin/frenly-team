@@ -4,13 +4,13 @@
 
 ## TODO v1.0
 
+- [ ] FAQ
 - [ ] group welcome message
 - [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
 - [ ] premium package
-- [ ] FAQ
 - [ ] testing
 - [ ] texts
 - [ ] cycle - automatic channel msg
