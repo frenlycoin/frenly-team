@@ -5,7 +5,7 @@
 ## TODO v1.0
 
 - [ ] group welcome message
-- [ ] explain 1% better
+- [ ] update about (explain 1% better, token)
 - [ ] app - referral stats
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
