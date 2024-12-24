@@ -144,5 +144,5 @@
 - [x] settings in menu
 - [x] FAQ
 - [x] possible notification fix
-- [x] create FRCO token
+- [x] create FRCO token (testing and experiments)
 - [x] about screen
