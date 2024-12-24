@@ -11,7 +11,6 @@
 - [ ] automatic daily mining cycle
 - [ ] premium package
 - [ ] testing
-- [ ] about screen
 - [ ] cycle - automatic channel msg
 
 ## BACKLOG
@@ -146,3 +145,4 @@
 - [x] FAQ
 - [x] possible notification fix
 - [x] create FRCO token
+- [x] about screen
