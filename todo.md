@@ -10,7 +10,6 @@
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
 - [ ] premium package
-- [ ] testing
 - [ ] cycle - automatic channel msg
 
 ## BACKLOG
