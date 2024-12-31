@@ -4,6 +4,9 @@
 
 ## TODO v1.0
 
+- [ ] adding channels
+- [ ] new mining system (health)
+- [ ] ton weekly competition
 - [ ] group welcome message
 - [ ] update about (explain 1% better, token)
 - [ ] app - referral stats
