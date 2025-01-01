@@ -13,10 +13,10 @@
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
 - [ ] premium package
-- [ ] cycle - automatic channel msg
 
 ## BACKLOG
 
+- [ ] speed up cache
 - [ ] add more FAQ entries
 - [ ] send compounding notification
 - [ ] show TON on counter too
