@@ -7,7 +7,6 @@
 - [ ] adding channels
 - [ ] new mining system (health)
 - [ ] ton weekly competition
-- [ ] group welcome message
 - [ ] update about (explain 1% better, token)
 - [ ] app - referral stats
 - [ ] automatic compounding
@@ -149,3 +148,4 @@
 - [x] create FRCO token (testing and experiments)
 - [x] about screen
 - [x] check command
+- [x] group welcome message
