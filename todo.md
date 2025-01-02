@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] check command
 - [ ] adding channels
 - [ ] new mining system (health)
 - [ ] ton weekly competition
@@ -149,3 +148,4 @@
 - [x] possible notification fix
 - [x] create FRCO token (testing and experiments)
 - [x] about screen
+- [x] check command
