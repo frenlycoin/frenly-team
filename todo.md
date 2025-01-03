@@ -18,7 +18,6 @@
 - [ ] speed up cache
 - [ ] add more FAQ entries
 - [ ] send compounding notification
-- [ ] show TON on counter too
 - [ ] filter fake users
 - [ ] both bottom buttons check
 - [ ] db backup
