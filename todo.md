@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] update welcome
 - [ ] ton daily competition
 - [ ] adding channels
 - [ ] new mining system (health)
@@ -152,3 +151,4 @@
 - [x] update about - explain 1% better
 - [x] update about generally
 - [x] write additional texts
+- [x] update welcome
