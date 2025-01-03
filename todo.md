@@ -7,7 +7,7 @@
 - [ ] adding channels
 - [ ] new mining system (health)
 - [ ] ton weekly competition
-- [ ] update about (explain 1% better, token)
+- [ ] update about - token
 - [ ] app - referral stats
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
@@ -149,3 +149,4 @@
 - [x] about screen
 - [x] check command
 - [x] group welcome message
+- [x] update about - explain 1% better
