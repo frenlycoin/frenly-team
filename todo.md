@@ -149,3 +149,5 @@
 - [x] check command
 - [x] group welcome message
 - [x] update about - explain 1% better
+- [x] update about generally
+- [x] write additional texts
