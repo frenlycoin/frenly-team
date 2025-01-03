@@ -4,9 +4,9 @@
 
 ## TODO v1.0
 
+- [ ] ton daily competition
 - [ ] adding channels
 - [ ] new mining system (health)
-- [ ] ton weekly competition
 - [ ] update about - token
 - [ ] app - referral stats
 - [ ] automatic compounding
