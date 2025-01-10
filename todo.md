@@ -15,6 +15,7 @@
 
 ## BACKLOG
 
+- [ ] ignore blocked
 - [ ] speed up cache
 - [ ] add more FAQ entries
 - [ ] send compounding notification
