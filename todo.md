@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] ton daily competition
 - [ ] FCS -> FREN
 - [ ] adding channels
 - [ ] new mining system (health)
@@ -153,3 +152,4 @@
 - [x] update about generally
 - [x] write additional texts
 - [x] update welcome
+- [x] ton daily competition
