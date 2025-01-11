@@ -15,7 +15,6 @@
 ## BACKLOG
 
 - [ ] ignore blocked
-- [ ] speed up cache
 - [ ] add more FAQ entries
 - [ ] send compounding notification
 - [ ] filter fake users?
@@ -155,3 +154,4 @@
 - [x] ton daily competition
 - [x] FCS -> FREN
 - [x] automatic restart message
+- [x] speed up cache
