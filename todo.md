@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] automatic restart message
 - [ ] adding channels
 - [ ] new mining system (health)
 - [ ] update about - token
@@ -155,3 +154,4 @@
 - [x] update welcome
 - [x] ton daily competition
 - [x] FCS -> FREN
+- [x] automatic restart message
