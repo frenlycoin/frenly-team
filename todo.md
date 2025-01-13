@@ -156,3 +156,7 @@
 - [x] automatic restart message
 - [x] speed up cache
 - [x] move automatic posts time
+- [x] 3rd party channel post detect
+- [x] 3rd party channel - add button
+- [x] 3rd party channel - send post
+- [x] 3rd party channel - add link
