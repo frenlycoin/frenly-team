@@ -7,7 +7,6 @@
 - [ ] boosting - execute boost
 - [ ] boosting - show tasks in the app
 - [ ] boosting - miner health
-- [ ] fix claim issue
 - [ ] update about - token
 - [ ] app - referral stats
 - [ ] automatic compounding
@@ -164,3 +163,4 @@
 - [x] 3rd party channel - send post
 - [x] 3rd party channel - add link
 - [x] adding channels
+- [x] fix claim issue
