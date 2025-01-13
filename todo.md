@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] boosting - execute boost
 - [ ] boosting - show tasks in the app
 - [ ] boosting - miner health
 - [ ] update about - token
@@ -164,3 +163,4 @@
 - [x] 3rd party channel - add link
 - [x] adding channels
 - [x] fix claim issue
+- [x] boosting - execute boost
