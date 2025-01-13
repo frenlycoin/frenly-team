@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] adding channels
 - [ ] new mining system (health)
 - [ ] update about - token
 - [ ] app - referral stats
@@ -160,3 +159,4 @@
 - [x] 3rd party channel - add button
 - [x] 3rd party channel - send post
 - [x] 3rd party channel - add link
+- [x] adding channels
