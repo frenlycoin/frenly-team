@@ -4,8 +4,9 @@
 
 ## TODO v1.0
 
-- [ ] boosting - show tasks in the app
-- [ ] boosting - miner health
+- [ ] boost - new user
+- [ ] boost - show tasks in the app
+- [ ] boost - miner health
 - [ ] update about - token
 - [ ] app - referral stats
 - [ ] automatic compounding
