@@ -7,6 +7,7 @@
 - [ ] boosting - execute boost
 - [ ] boosting - show tasks in the app
 - [ ] boosting - miner health
+- [ ] fix claim issue
 - [ ] update about - token
 - [ ] app - referral stats
 - [ ] automatic compounding
