@@ -155,3 +155,4 @@
 - [x] FCS -> FREN
 - [x] automatic restart message
 - [x] speed up cache
+- [x] move automatic posts time
