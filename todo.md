@@ -5,7 +5,7 @@
 ## TODO v1.0
 
 - [ ] boost - new user
-- [ ] boost - show tasks in the app
+- [ ] boost - show boosts in the app
 - [ ] boost - miner health
 - [ ] boost - referral for owners
 - [ ] boost - referral for inviting owners
@@ -169,3 +169,5 @@
 - [x] boosting - execute boost
 - [x] message when already boosted
 - [x] prize game bug
+- [x] model - get non boosted posts
+- [x] boosting with bot
