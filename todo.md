@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] message when already boosted
 - [ ] boost - new user
 - [ ] boost - show tasks in the app
 - [ ] boost - miner health
