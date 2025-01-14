@@ -17,7 +17,7 @@
 
 ## BACKLOG
 
-- [ ] mining cycle issue
+- [ ] mining cycle issue (midnight)
 - [ ] ignore blocked
 - [ ] add more FAQ entries
 - [ ] send compounding notification
