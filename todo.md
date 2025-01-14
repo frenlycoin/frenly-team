@@ -168,3 +168,4 @@
 - [x] fix claim issue
 - [x] boosting - execute boost
 - [x] message when already boosted
+- [x] prize game bug
