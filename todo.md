@@ -4,7 +4,7 @@
 
 ## TODO v1.0
 
-- [ ] boost - new user
+- [ ] boost - new user / general flow
 - [ ] boost - show boosts in the app
 - [ ] boost - miner health
 - [ ] boost - referral for owners
