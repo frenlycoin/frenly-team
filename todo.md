@@ -7,6 +7,8 @@
 - [ ] boost - new user
 - [ ] boost - show tasks in the app
 - [ ] boost - miner health
+- [ ] boost - referral for owners
+- [ ] boost - referral for inviting owners
 - [ ] update about - token
 - [ ] app - referral stats
 - [ ] automatic compounding
