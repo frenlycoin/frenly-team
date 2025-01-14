@@ -171,3 +171,4 @@
 - [x] prize game bug
 - [x] model - get non boosted posts
 - [x] boosting with bot
+- [x] link win announcement in failed prize message
