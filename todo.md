@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] message when already boosted
 - [ ] boost - new user
 - [ ] boost - show tasks in the app
 - [ ] boost - miner health
@@ -168,3 +167,4 @@
 - [x] adding channels
 - [x] fix claim issue
 - [x] boosting - execute boost
+- [x] message when already boosted
