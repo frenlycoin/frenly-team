@@ -6,7 +6,7 @@
 
 - [ ] boost - new user / general flow
 - [ ] boost - show boosts in the app
-- [ ] boost - miner health
+- [ ] boost - health app
 - [ ] boost - referral for owners
 - [ ] boost - referral for inviting owners
 - [ ] update about - token
@@ -172,3 +172,5 @@
 - [x] model - get non boosted posts
 - [x] boosting with bot
 - [x] link win announcement in failed prize message
+- [x] 3rd party post / boost issue
+- [x] boost - health backend
