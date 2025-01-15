@@ -4,9 +4,9 @@
 
 ## TODO v1.0
 
+- [ ] boost - health app
 - [ ] boost - new user / general flow
 - [ ] boost - show boosts in the app
-- [ ] boost - health app
 - [ ] boost - referral for owners
 - [ ] boost - referral for inviting owners
 - [ ] update about - token
