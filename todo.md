@@ -5,7 +5,6 @@
 ## TODO v1.0
 
 - [ ] boost - new user / general flow
-- [ ] boost - show boosts in the app
 - [ ] boost - referral for owners
 - [ ] boost - referral for inviting owners
 - [ ] update about - token
@@ -174,3 +173,4 @@
 - [x] 3rd party post / boost issue
 - [x] boost - health backend
 - [x] boost - health in app
+- [x] boost - show boosts in the app
