@@ -29,8 +29,7 @@
 - [ ] test env
 - [ ] twitter share (tasks)
 - [ ] website
-- [ ] TMU token
-- [ ] TON Crush game
+- [ ] FRENLY token
 
 ## DONE v1.0
 
