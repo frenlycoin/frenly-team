@@ -182,3 +182,4 @@
 - [x] health index in reward
 - [x] edit post permission bug
 - [x] add health to check
+- [x] boost ref bug
