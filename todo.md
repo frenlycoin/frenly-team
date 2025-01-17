@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] change fren price
 - [ ] boost - new user / general flow
 - [ ] boost - referral for owners
 - [ ] boost - referral for inviting owners
