@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] left to boost
 - [ ] boost - new user / general flow
 - [ ] save reward each cycle
 - [ ] boost - referral for owners
