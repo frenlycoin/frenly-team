@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] calculate health in reward
 - [ ] save reward each cycle
 - [ ] boost - new user / general flow
 - [ ] boost - referral for owners
@@ -178,3 +177,4 @@
 - [x] delete problematic posts
 - [x] change fren price
 - [x] boost SQL bug
+- [x] health index in reward
