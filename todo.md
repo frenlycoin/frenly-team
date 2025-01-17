@@ -176,3 +176,4 @@
 - [x] boost - show boosts in the app
 - [x] delete problematic posts
 - [x] change fren price
+- [x] boost SQL bug
