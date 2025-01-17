@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] edit post bug
 - [ ] save reward each cycle
 - [ ] boost - new user / general flow
 - [ ] boost - referral for owners
@@ -180,3 +179,4 @@
 - [x] bugs with 3rd party channels
 - [x] boost SQL bug
 - [x] health index in reward
+- [x] edit post permission bug
