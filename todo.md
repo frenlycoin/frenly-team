@@ -182,4 +182,4 @@
 - [x] edit post permission bug
 - [x] add health to check
 - [x] boost ref bug
-- [x] left to boost
+- [x] boosts left notification
