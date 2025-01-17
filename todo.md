@@ -5,6 +5,7 @@
 ## TODO v1.0
 
 - [ ] calculate health in reward
+- [ ] save reward each cycle
 - [ ] boost - new user / general flow
 - [ ] boost - referral for owners
 - [ ] boost - referral for inviting owners
