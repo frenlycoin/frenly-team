@@ -174,3 +174,4 @@
 - [x] boost - health backend
 - [x] boost - health in app
 - [x] boost - show boosts in the app
+- [x] delete problematic posts
