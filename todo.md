@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] add health to check
 - [ ] save reward each cycle
 - [ ] boost - new user / general flow
 - [ ] boost - referral for owners
