@@ -4,8 +4,8 @@
 
 ## TODO v1.0
 
-- [ ] save reward each cycle
 - [ ] boost - new user / general flow
+- [ ] save reward each cycle
 - [ ] boost - referral for owners
 - [ ] boost - referral for inviting owners
 - [ ] update about - token
