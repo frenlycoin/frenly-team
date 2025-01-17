@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] left to boost
 - [ ] boost - new user / general flow
 - [ ] save reward each cycle
 - [ ] boost - referral for owners
@@ -183,3 +182,4 @@
 - [x] edit post permission bug
 - [x] add health to check
 - [x] boost ref bug
+- [x] left to boost
