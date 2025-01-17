@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] change fren price
 - [ ] boost - new user / general flow
 - [ ] boost - referral for owners
 - [ ] boost - referral for inviting owners
@@ -175,3 +174,4 @@
 - [x] boost - health in app
 - [x] boost - show boosts in the app
 - [x] delete problematic posts
+- [x] change fren price
