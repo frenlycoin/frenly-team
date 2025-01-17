@@ -177,5 +177,6 @@
 - [x] boost - show boosts in the app
 - [x] delete problematic posts
 - [x] change fren price
+- [x] bugs with 3rd party channels
 - [x] boost SQL bug
 - [x] health index in reward
