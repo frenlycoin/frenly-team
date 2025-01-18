@@ -19,6 +19,7 @@
 
 ## BACKLOG
 
+- [ ] last boost restart if needed
 - [ ] mining cycle issue (midnight)
 - [ ] ignore blocked
 - [ ] add more FAQ entries
