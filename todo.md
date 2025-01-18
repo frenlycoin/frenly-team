@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] health colors
 - [ ] boost - new user / general flow
 - [ ] save reward each cycle
 - [ ] boost - referral for owners
@@ -184,3 +185,4 @@
 - [x] boost ref bug
 - [x] boosts left notification
 - [x] new welcome message
+- [x] new users - start with 100% health
