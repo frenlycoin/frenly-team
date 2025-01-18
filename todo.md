@@ -9,7 +9,6 @@
 - [ ] check boost button
 - [ ] notification for each post
 - [ ] health colors
-- [ ] boost - new user / general flow
 - [ ] save reward each cycle
 - [ ] boost - referral for owners
 - [ ] boost - referral for inviting owners
@@ -190,3 +189,4 @@
 - [x] boosts left notification
 - [x] new welcome message
 - [x] new users - start with 100% health
+- [x] boost - new user / general flow
