@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] health colors
 - [ ] boost button on reset
 - [ ] reset health issue
 - [ ] health notification
@@ -193,3 +192,4 @@
 - [x] boost - new user / general flow
 - [x] welcome update
 - [x] new health / boost algorithm
+- [x] health colors
