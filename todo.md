@@ -4,10 +4,10 @@
 
 ## TODO v1.0
 
+- [ ] check boost button
 - [ ] boost button on reset
 - [ ] reset health issue
 - [ ] health notification
-- [ ] check boost button
 - [ ] notification for each post
 - [ ] save reward each cycle
 - [ ] boost - referral for owners
