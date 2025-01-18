@@ -4,6 +4,10 @@
 
 ## TODO v1.0
 
+- [ ] health notification
+- [ ] boost on reset
+- [ ] check boost button
+- [ ] notification for each post
 - [ ] health colors
 - [ ] boost - new user / general flow
 - [ ] save reward each cycle
