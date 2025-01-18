@@ -4,12 +4,12 @@
 
 ## TODO v1.0
 
+- [ ] health colors
+- [ ] boost button on reset
 - [ ] reset health issue
 - [ ] health notification
-- [ ] boost button on reset
 - [ ] check boost button
 - [ ] notification for each post
-- [ ] health colors
 - [ ] save reward each cycle
 - [ ] boost - referral for owners
 - [ ] boost - referral for inviting owners
