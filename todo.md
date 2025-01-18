@@ -183,3 +183,4 @@
 - [x] add health to check
 - [x] boost ref bug
 - [x] boosts left notification
+- [x] new welcome message
