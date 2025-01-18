@@ -191,3 +191,4 @@
 - [x] new welcome message
 - [x] new users - start with 100% health
 - [x] boost - new user / general flow
+- [x] welcome update
