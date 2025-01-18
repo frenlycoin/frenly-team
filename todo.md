@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] boost button on reset
 - [ ] reset health issue
 - [ ] health notification
 - [ ] notification for each post
@@ -194,3 +193,4 @@
 - [x] new health / boost algorithm
 - [x] health colors
 - [x] check boost button
+- [x] boost button on reset
