@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] reset health issue
 - [ ] health notification
 - [ ] boost button on reset
 - [ ] check boost button
