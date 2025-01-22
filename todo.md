@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] report missing boost
 - [ ] reset health issue
 - [ ] health notification
 - [ ] notification for each post
@@ -195,3 +194,4 @@
 - [x] health colors
 - [x] check boost button
 - [x] boost button on reset
+- [x] report missing boost
