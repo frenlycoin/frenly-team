@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] report missing boost
 - [ ] reset health issue
 - [ ] health notification
 - [ ] notification for each post
