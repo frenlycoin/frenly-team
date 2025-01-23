@@ -7,7 +7,6 @@
 - [ ] health notification
 - [ ] notification for each post
 - [ ] save reward each cycle
-- [ ] boost - referral for owners
 - [ ] boost - referral for inviting owners
 - [ ] update about - token
 - [ ] app - referral stats
@@ -196,3 +195,4 @@
 - [x] report missing boost
 - [x] reward sum issue
 - [x] reset health issue
+- [x] boost - referral for owners
