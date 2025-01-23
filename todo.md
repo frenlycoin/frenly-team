@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] reward sum issue
 - [ ] reset health issue
 - [ ] health notification
 - [ ] notification for each post
@@ -196,3 +195,4 @@
 - [x] check boost button
 - [x] boost button on reset
 - [x] report missing boost
+- [x] reward sum issue
