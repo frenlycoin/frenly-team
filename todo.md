@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] simple amm
 - [ ] health notification
 - [ ] notification for each post
 - [ ] save reward each cycle
@@ -26,7 +27,6 @@
 - [ ] db backup
 - [ ] withdrawal - comment
 - [ ] make UI more consistent
-- [ ] simple amm
 - [ ] secure everything more
 - [ ] test env
 - [ ] twitter share (tasks)
