@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] reward stats
 - [ ] simple amm
 - [ ] health notification
 - [ ] notification for each post
