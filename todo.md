@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] switch admin to frenly (logs)
 - [ ] subscribe task with 0.01 FREN reward
 - [ ] fix and redesign flow
 - [ ] group notification on cash out
@@ -206,3 +205,4 @@
 - [x] reset health issue
 - [x] boost - referral for owners
 - [x] reward stats
+- [x] switch admin to frenly (logs)
