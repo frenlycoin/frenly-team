@@ -4,7 +4,15 @@
 
 ## TODO v1.0
 
-- [ ] reward stats
+- [ ] switch admin to frenly (logs)
+- [ ] subscribe task with 0.01 FREN reward
+- [ ] fix and redesign flow
+- [ ] group notification on cash out
+- [ ] cashout limit with redirect
+- [ ] notification on anonsrobot
+- [ ] notification on anoterobot
+- [ ] x contests
+- [ ] fb contests
 - [ ] simple amm
 - [ ] health notification
 - [ ] notification for each post
@@ -197,3 +205,4 @@
 - [x] reward sum issue
 - [x] reset health issue
 - [x] boost - referral for owners
+- [x] reward stats
