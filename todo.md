@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] album id issue
 - [ ] subscribe task with 0.01 FREN reward
 - [ ] fix and redesign flow
 - [ ] group notification on cash out
@@ -207,3 +206,4 @@
 - [x] boost - referral for owners
 - [x] reward stats
 - [x] switch admin to frenly (logs)
+- [x] album id issue
