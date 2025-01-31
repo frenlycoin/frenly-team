@@ -207,3 +207,4 @@
 - [x] reward stats
 - [x] switch admin to frenly (logs)
 - [x] album id issue
+- [x] 3rd party channel bug fixes
