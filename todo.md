@@ -11,7 +11,6 @@
 - [ ] notification on anonsrobot
 - [ ] notification on anoterobot
 - [ ] x contests
-- [ ] fb contests
 - [ ] simple amm
 - [ ] health notification
 - [ ] notification for each post
@@ -25,6 +24,7 @@
 
 ## BACKLOG
 
+- [ ] fb contests
 - [ ] last boost restart if needed
 - [ ] mining cycle issue (midnight)
 - [ ] ignore blocked
