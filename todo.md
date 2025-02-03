@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] group notification on cash out
 - [ ] subscribe task with 0.01 FREN reward
 - [ ] fix and redesign flow
 - [ ] cash out limit with redirect
@@ -209,3 +208,4 @@
 - [x] album id issue
 - [x] 3rd party channel bug fixes
 - [x] type post boost bug
+- [x] group notification on cash out
