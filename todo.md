@@ -22,6 +22,7 @@
 
 ## BACKLOG
 
+- [ ] 3rd party channel referrals
 - [ ] fb contests
 - [ ] last boost restart if needed
 - [ ] mining cycle issue (midnight)
