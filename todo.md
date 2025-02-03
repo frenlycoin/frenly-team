@@ -4,8 +4,8 @@
 
 ## TODO v1.0
 
-- [ ] subscribe task with 0.01 FREN reward
 - [ ] fix and redesign flow
+- [ ] subscribe task with 0.01 FREN reward
 - [ ] cash out limit with redirect
 - [ ] notification on anonsrobot
 - [ ] notification on anoterobot
