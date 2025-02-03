@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] fix and redesign flow
 - [ ] subscribe task with 0.01 FREN reward
 - [ ] cash out limit with redirect
 - [ ] notification on anonsrobot
@@ -210,3 +209,4 @@
 - [x] type post boost bug
 - [x] group notification on cash out
 - [x] start x contests
+- [x] fix and redesign flow
