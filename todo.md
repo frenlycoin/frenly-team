@@ -9,7 +9,6 @@
 - [ ] cash out limit with redirect
 - [ ] notification on anonsrobot
 - [ ] notification on anoterobot
-- [ ] x contests
 - [ ] simple amm
 - [ ] health notification
 - [ ] notification for each post
@@ -209,3 +208,4 @@
 - [x] 3rd party channel bug fixes
 - [x] type post boost bug
 - [x] group notification on cash out
+- [x] x contests
