@@ -7,7 +7,7 @@
 - [ ] subscribe task with 0.01 FREN reward
 - [ ] fix and redesign flow
 - [ ] group notification on cash out
-- [ ] cashout limit with redirect
+- [ ] cash out limit with redirect
 - [ ] notification on anonsrobot
 - [ ] notification on anoterobot
 - [ ] x contests
