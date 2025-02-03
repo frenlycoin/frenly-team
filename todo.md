@@ -4,9 +4,9 @@
 
 ## TODO v1.0
 
+- [ ] group notification on cash out
 - [ ] subscribe task with 0.01 FREN reward
 - [ ] fix and redesign flow
-- [ ] group notification on cash out
 - [ ] cash out limit with redirect
 - [ ] notification on anonsrobot
 - [ ] notification on anoterobot
