@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] type post boost bug
 - [ ] subscribe task with 0.01 FREN reward
 - [ ] fix and redesign flow
 - [ ] group notification on cash out
@@ -209,3 +208,4 @@
 - [x] switch admin to frenly (logs)
 - [x] album id issue
 - [x] 3rd party channel bug fixes
+- [x] type post boost bug
