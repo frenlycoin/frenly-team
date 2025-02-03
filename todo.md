@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] redesign restart?
 - [ ] subscribe task with 0.01 FREN reward
 - [ ] cash out limit with redirect
 - [ ] notification on anonsrobot
