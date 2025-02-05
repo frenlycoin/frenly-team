@@ -4,6 +4,9 @@
 
 ## TODO v1.0
 
+- [ ] test env - backend
+- [ ] test env - app
+- [ ] test env - bot
 - [ ] redesign restart?
 - [ ] subscribe task with 0.01 FREN reward
 - [ ] cash out limit with redirect
@@ -35,7 +38,6 @@
 - [ ] withdrawal - comment
 - [ ] make UI more consistent
 - [ ] secure everything more
-- [ ] test env
 - [ ] twitter share (tasks)
 - [ ] website
 - [ ] FRENLY token
