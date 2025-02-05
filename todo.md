@@ -211,3 +211,4 @@
 - [x] group notification on cash out
 - [x] start x contests
 - [x] fix and redesign flow
+- [x] return old boost flow
