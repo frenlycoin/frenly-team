@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] test env - backend
 - [ ] test env - app
 - [ ] test env - bot
 - [ ] redesign restart?
@@ -214,3 +213,4 @@
 - [x] start x contests
 - [x] fix and redesign flow
 - [x] return old boost flow
+- [x] test env - backend
