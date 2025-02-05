@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] test env - app
 - [ ] test env - bot
 - [ ] redesign restart?
 - [ ] subscribe task with 0.01 FREN reward
@@ -214,3 +213,4 @@
 - [x] fix and redesign flow
 - [x] return old boost flow
 - [x] test env - backend
+- [x] test env - app
