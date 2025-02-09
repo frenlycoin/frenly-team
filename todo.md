@@ -24,6 +24,7 @@
 
 ## BACKLOG
 
+- [ ] backup db
 - [ ] 3rd party channel referrals
 - [ ] fb contests
 - [ ] last boost restart if needed
