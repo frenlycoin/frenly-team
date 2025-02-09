@@ -12,7 +12,6 @@
 - [ ] simple amm
 - [ ] health notification
 - [ ] notification for each post
-- [ ] save reward each cycle
 - [ ] boost - referral for inviting owners
 - [ ] update about - token
 - [ ] app - referral stats
