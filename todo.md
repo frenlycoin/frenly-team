@@ -210,6 +210,9 @@
 - [x] group notification on cash out
 - [x] start x contests
 - [x] fix and redesign flow
+
+## DONE v1.1
+
 - [x] return old boost flow
 - [x] test env - backend
 - [x] test env - app
