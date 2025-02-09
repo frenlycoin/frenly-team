@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] remove mining cycle from the app
 - [ ] redesign restart?
 - [ ] subscribe task with 0.01 FREN reward
 - [ ] cash out limit with redirect
@@ -217,3 +216,4 @@
 - [x] test env - bot
 - [x] boosting with app
 - [x] backup db
+- [x] remove mining cycle from the app
