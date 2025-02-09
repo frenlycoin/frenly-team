@@ -5,6 +5,7 @@
 ## TODO v1.0
 
 - [ ] boosting with app
+- [ ] remove mining cycle from the app
 - [ ] redesign restart?
 - [ ] subscribe task with 0.01 FREN reward
 - [ ] cash out limit with redirect
