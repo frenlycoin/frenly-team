@@ -12,7 +12,6 @@
 - [ ] simple amm
 - [ ] health notification
 - [ ] notification for each post
-- [ ] boost - referral for inviting owners
 - [ ] update about - token
 - [ ] app - referral stats
 - [ ] automatic compounding
@@ -21,6 +20,7 @@
 
 ## BACKLOG
 
+- [ ] boost - referral for inviting owners
 - [ ] 3rd party channel referrals
 - [ ] fb contests
 - [ ] last boost restart if needed
