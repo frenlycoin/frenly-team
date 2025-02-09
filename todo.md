@@ -4,13 +4,13 @@
 
 ## TODO v1.0
 
-- [ ] redesign restart?
+- [ ] new health scheme / restart
+- [ ] health notification
 - [ ] subscribe task with 0.01 FREN reward
 - [ ] cash out limit with redirect
 - [ ] notification on anonsrobot
 - [ ] notification on anoterobot
 - [ ] simple amm
-- [ ] health notification
 - [ ] notification for each post
 - [ ] update about - token
 - [ ] app - referral stats
