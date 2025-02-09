@@ -2,7 +2,7 @@
 
 ## FrenlyCoin
 
-## TODO v1.0
+## TODO v1.1
 
 - [ ] new health scheme / restart
 - [ ] health notification
