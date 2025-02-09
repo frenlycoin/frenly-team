@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] boosting with app
 - [ ] remove mining cycle from the app
 - [ ] redesign restart?
 - [ ] subscribe task with 0.01 FREN reward
@@ -217,3 +216,4 @@
 - [x] test env - backend
 - [x] test env - app
 - [x] test env - bot
+- [x] boosting with app
