@@ -4,9 +4,9 @@
 
 ## TODO v1.1
 
+- [ ] boost - new user flow
 - [ ] new health scheme / restart
 - [ ] health notification
-- [ ] boost - new user flow
 - [ ] subscribe task with 0.01 FREN reward
 - [ ] cash out limit with redirect
 - [ ] notification on anonsrobot
