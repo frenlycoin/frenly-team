@@ -220,3 +220,5 @@
 - [x] boosting with app
 - [x] backup db
 - [x] remove mining cycle from the app
+- [x] reconfigure workstation
+ 
