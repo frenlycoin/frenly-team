@@ -4,7 +4,6 @@
 
 ## TODO v1.1
 
-- [ ] custom boosts table
 - [ ] boost - new user flow
 - [ ] new health scheme / restart
 - [ ] health notification
@@ -222,3 +221,4 @@
 - [x] backup db
 - [x] remove mining cycle from the app
 - [x] reconfigure workstation
+- [x] custom boosts table
