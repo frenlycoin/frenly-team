@@ -4,6 +4,7 @@
 
 ## TODO v1.1
 
+- [ ] boost - timestamp issue
 - [ ] boost - new user flow
 - [ ] new health scheme / restart
 - [ ] health notification
