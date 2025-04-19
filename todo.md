@@ -223,3 +223,4 @@
 - [x] remove mining cycle from the app
 - [x] reconfigure workstation
 - [x] custom boosts table
+- [x] boost time bug
