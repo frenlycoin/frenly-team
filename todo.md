@@ -4,7 +4,6 @@
 
 ## TODO v1.1
 
-- [ ] boost - double entry bug
 - [ ] boost - new user flow
 - [ ] new health scheme / restart
 - [ ] health notification
@@ -224,3 +223,4 @@
 - [x] reconfigure workstation
 - [x] custom boosts table
 - [x] boost time bug
+- [x] boost - double entry bug
