@@ -4,7 +4,6 @@
 
 ## TODO v1.1
 
-- [ ] change fren price
 - [ ] boost - new user flow
 - [ ] new health scheme / restart
 - [ ] health notification
@@ -226,3 +225,4 @@
 - [x] boost time bug
 - [x] boost - double entry bug
 - [x] boost - timestamp issue
+- [x] change fren price
