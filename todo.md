@@ -4,6 +4,7 @@
 
 ## TODO v1.1
 
+- [ ] change fren price
 - [ ] boost - new user flow
 - [ ] new health scheme / restart
 - [ ] health notification
