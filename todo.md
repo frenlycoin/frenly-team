@@ -4,7 +4,6 @@
 
 ## TODO v1.1
 
-- [ ] mint notification issue
 - [ ] boost - new user flow
 - [ ] new health scheme / restart
 - [ ] health notification
@@ -227,3 +226,4 @@
 - [x] boost - double entry bug
 - [x] boost - timestamp issue
 - [x] change fren price
+- [x] mint notification issue
