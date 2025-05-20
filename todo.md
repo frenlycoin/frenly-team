@@ -227,3 +227,4 @@
 - [x] boost - timestamp issue
 - [x] change fren price
 - [x] mint notification issue
+- [x] getUboosted issue
