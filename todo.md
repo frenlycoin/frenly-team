@@ -1,4 +1,4 @@
-# FrenlyCoin TODO List
+ # FrenlyCoin TODO List
 
 ## FrenlyCoin
 
@@ -18,6 +18,7 @@
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
 - [ ] premium package
+- [ ] test
 
 ## BACKLOG
 
