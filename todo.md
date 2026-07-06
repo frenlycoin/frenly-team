@@ -18,7 +18,6 @@
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
 - [ ] premium package
-- [ ] test
 
 ## BACKLOG
 
