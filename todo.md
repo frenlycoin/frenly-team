@@ -4,6 +4,7 @@
 
 ## TODO v1.1
 
+- [ ] deploy testing environment
 - [ ] boost - new user flow
 - [ ] new health scheme / restart
 - [ ] health notification
