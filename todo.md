@@ -4,7 +4,6 @@
 
 ## TODO v1.1
 
-- [ ] deploy testing environment
 - [ ] boost - new user flow
 - [ ] new health scheme / restart
 - [ ] health notification
@@ -229,3 +228,4 @@
 - [x] change fren price
 - [x] mint notification issue
 - [x] getUboosted issue
+- [x] deploy testing environment
