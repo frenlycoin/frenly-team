@@ -4,6 +4,8 @@
 
 ## TODO v1.1
 
+- [ ] fix production
+- [ ] fix github branches
 - [ ] boost - new user flow
 - [ ] new health scheme / restart
 - [ ] health notification
