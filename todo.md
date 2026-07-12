@@ -6,6 +6,7 @@
 
 - [ ] fix production
 - [ ] fix github branches
+- [ ] fix testing env
 - [ ] boost - new user flow
 - [ ] new health scheme / restart
 - [ ] health notification
