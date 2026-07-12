@@ -229,3 +229,4 @@
 - [x] mint notification issue
 - [x] getUboosted issue
 - [x] deploy testing environment
+- [x] migrate FRENs
