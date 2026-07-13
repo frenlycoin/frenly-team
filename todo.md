@@ -4,7 +4,6 @@
 
 ## TODO v1.1
 
-- [ ] fix github branches
 - [ ] fix testing env
 - [ ] boost - new user flow
 - [ ] new health scheme / restart
@@ -234,3 +233,4 @@
 - [x] migrate FRENs
 - [x] fix production
 - [x] update dependencies
+- [x] fix git branches
