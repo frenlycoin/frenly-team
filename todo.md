@@ -4,7 +4,6 @@
 
 ## TODO v1.1
 
-- [ ] fix production
 - [ ] fix github branches
 - [ ] fix testing env
 - [ ] boost - new user flow
@@ -233,3 +232,4 @@
 - [x] getUboosted issue
 - [x] deploy testing environment
 - [x] migrate FRENs
+- [x] fix production
