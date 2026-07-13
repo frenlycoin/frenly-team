@@ -4,7 +4,6 @@
 
 ## TODO v1.1
 
-- [ ] fix testing env
 - [ ] boost - new user flow
 - [ ] new health scheme / restart
 - [ ] health notification
@@ -234,3 +233,4 @@
 - [x] fix production
 - [x] update dependencies
 - [x] fix git branches
+- [x] fix testing env
