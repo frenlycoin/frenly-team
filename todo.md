@@ -233,3 +233,4 @@
 - [x] deploy testing environment
 - [x] migrate FRENs
 - [x] fix production
+- [x] update dependencies
