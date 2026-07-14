@@ -19,8 +19,8 @@
 - [ ] automatic daily mining cycle
 - [ ] premium package
 - [ ] secure everything
-= [ ] setup website
-- [ ] build a website
+= [ ] setup the website
+- [ ] build the website
 
 ## BACKLOG
 
