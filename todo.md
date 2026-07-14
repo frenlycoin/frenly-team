@@ -5,6 +5,11 @@
 ## TODO v1.1
 
 - [ ] simple amm
+- [ ] update referral system
+- [ ] move decimal point (again)
+
+## TODO v1.2
+
 - [ ] boost - new user flow
 - [ ] new health scheme / restart
 - [ ] health notification
@@ -19,7 +24,7 @@
 - [ ] automatic daily mining cycle
 - [ ] premium package
 - [ ] secure everything
-= [ ] setup the website
+- [ ] setup the website
 - [ ] build the website
 
 ## BACKLOG
