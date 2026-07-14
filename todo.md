@@ -18,6 +18,7 @@
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
 - [ ] premium package
+- [ ] secure everything
 
 ## BACKLOG
 
