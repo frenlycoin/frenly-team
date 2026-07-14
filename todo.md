@@ -7,6 +7,8 @@
 - [ ] simple amm
 - [ ] update referral system
 - [ ] move decimal point (again)
+- [ ] setup the website
+- [ ] build basic website
 
 ## TODO v1.2
 
@@ -24,8 +26,6 @@
 - [ ] automatic daily mining cycle
 - [ ] premium package
 - [ ] secure everything
-- [ ] setup the website
-- [ ] build the website
 
 ## BACKLOG
 
