@@ -4,6 +4,7 @@
 
 ## TODO v1.1
 
+- [ ] simple amm
 - [ ] boost - new user flow
 - [ ] new health scheme / restart
 - [ ] health notification
@@ -11,7 +12,6 @@
 - [ ] cash out limit with redirect
 - [ ] notification on anonsrobot
 - [ ] notification on anoterobot
-- [ ] simple amm
 - [ ] notification for each post
 - [ ] update about - token
 - [ ] app - referral stats
