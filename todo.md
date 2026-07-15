@@ -6,11 +6,11 @@
 
 - [ ] simple amm
 - [ ] move decimal point (again)
-- [ ] build basic website
 - [ ] AI posts
 
 ## TODO v1.2
 
+- [ ] build basic website
 - [ ] update referral system
 - [ ] boost - new user flow
 - [ ] new health scheme / restart
