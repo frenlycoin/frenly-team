@@ -5,13 +5,13 @@
 ## TODO v1.1
 
 - [ ] simple amm
-- [ ] update referral system
 - [ ] move decimal point (again)
 - [ ] build basic website
 - [ ] AI posts
 
 ## TODO v1.2
 
+- [ ] update referral system
 - [ ] boost - new user flow
 - [ ] new health scheme / restart
 - [ ] health notification
