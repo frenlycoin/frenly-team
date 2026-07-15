@@ -7,8 +7,8 @@
 - [ ] simple amm
 - [ ] update referral system
 - [ ] move decimal point (again)
-- [ ] setup the website
 - [ ] build basic website
+- [ ] AI posts
 
 ## TODO v1.2
 
@@ -242,3 +242,4 @@
 - [x] update dependencies
 - [x] fix git branches
 - [x] fix testing env
+- [x] setup the website
