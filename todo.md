@@ -9,13 +9,16 @@
 - [ ] cancel trade feature
 - [ ] minting price update
 - [ ] trade - more info
-= [ ] trade done button
+- [ ] trade done button
 
 ## TODO v1.2
 
+- [ ] update referral system + referral health
 - [ ] build basic website
-- [ ] update referral system
 - [ ] change telegram name reward
+
+## TODO v1.3
+
 - [ ] boost - new user flow
 - [ ] new health scheme / restart
 - [ ] health notification
