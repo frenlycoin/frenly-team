@@ -5,7 +5,6 @@
 ## TODO v1.1
 
 - [ ] simple amm
-- [ ] move decimal point (again)
 - [ ] AI posts
 
 ## TODO v1.2
@@ -244,3 +243,4 @@
 - [x] fix git branches
 - [x] fix testing env
 - [x] setup the website
+- [x] move decimal point (again)
