@@ -12,6 +12,7 @@
 
 - [ ] build basic website
 - [ ] update referral system
+- [ ] change telegram name reward
 - [ ] boost - new user flow
 - [ ] new health scheme / restart
 - [ ] health notification
