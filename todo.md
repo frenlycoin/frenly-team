@@ -6,7 +6,7 @@
 
 - [ ] simple amm
 - [ ] AI posts
-- [ ] cancel trade feature
+- [ ] cancel trade feature with button
 - [ ] minting price update
 - [ ] trade - more info
 - [ ] trade done button
