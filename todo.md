@@ -6,6 +6,10 @@
 
 - [ ] simple amm
 - [ ] AI posts
+- [ ] cancel trade feature
+- [ ] minting price update
+- [ ] trade - more info
+= [ ] trade done button
 
 ## TODO v1.2
 
