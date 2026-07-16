@@ -7,7 +7,6 @@
 - [ ] simple amm
 - [ ] AI posts
 - [ ] cancel trade feature with button
-- [ ] minting price update
 - [ ] trade - more info
 - [ ] trade done button
 - [ ] update UI (price withdraw and mint)
@@ -252,3 +251,4 @@
 - [x] fix testing env
 - [x] setup the website
 - [x] move decimal point (again)
+- [x] minting price update
