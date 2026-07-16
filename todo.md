@@ -10,6 +10,7 @@
 - [ ] minting price update
 - [ ] trade - more info
 - [ ] trade done button
+- [ ] update UI (price withdraw and mint)
 
 ## TODO v1.2
 
