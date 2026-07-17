@@ -5,9 +5,6 @@
 ## TODO v1.1
 
 - [ ] AI posts
-- [ ] done trade button
-- [ ] pay trade button
-- [ ] cancel trade button
 - [ ] trade - more info
 - [ ] update UI (price withdraw and mint)
 - [ ] mint - handle pool
@@ -254,3 +251,6 @@
 - [x] move decimal point (again)
 - [x] minting price update
 - [x] simple amm
+- [x] done trade button
+- [x] pay trade button
+- [x] cancel trade button
