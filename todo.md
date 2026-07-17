@@ -10,6 +10,7 @@
 - [ ] trade - more info
 - [ ] trade done button
 - [ ] update UI (price withdraw and mint)
+- [ ] mint - handle pool
 
 ## TODO v1.2
 
