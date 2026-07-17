@@ -5,6 +5,7 @@
 ## TODO v1.1
 
 - [ ] AI posts
+- [ ] fix other two cashout notifications
 
 ## TODO v1.2
 
