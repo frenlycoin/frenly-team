@@ -5,7 +5,6 @@
 ## TODO v1.1
 
 - [ ] AI posts
-- [ ] trade - more info
 
 ## TODO v1.2
 
@@ -254,3 +253,5 @@
 - [x] cancel trade button
 - [x] update UI (price withdraw, mint and home)
 - [x] mint - handle pool
+- [x] trade - more info
+- [x] stats fren price
