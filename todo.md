@@ -11,6 +11,7 @@
 - [ ] update referral system + referral health
 - [ ] build basic website
 - [ ] change telegram name reward
+- [ ] build basic FRC and mining
 
 ## TODO v1.3
 
@@ -47,7 +48,6 @@
 - [ ] secure everything more
 - [ ] twitter share (tasks)
 - [ ] website
-- [ ] FRENLY token
 
 ## DONE v1.0
 
