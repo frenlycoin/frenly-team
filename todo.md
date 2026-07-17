@@ -6,7 +6,7 @@
 
 - [ ] AI posts
 - [ ] trade - more info
-- [ ] update UI (price withdraw and mint)
+- [ ] update UI (price withdraw, mint and home)
 - [ ] mint - handle pool
 
 ## TODO v1.2
