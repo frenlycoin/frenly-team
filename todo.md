@@ -4,7 +4,9 @@
 
 ## TODO v1.1
 
-- [ ] AI posts
+- [ ] frenly admin - db stuff
+- [ ] frenly admin - telegram stuff
+- [ ] frenly admin - frenly devs channel
 - [ ] fix other two cashout notifications
 
 ## TODO v1.2
