@@ -6,7 +6,6 @@
 
 - [ ] AI posts
 - [ ] trade - more info
-- [ ] mint - handle pool
 
 ## TODO v1.2
 
@@ -254,3 +253,4 @@
 - [x] pay trade button
 - [x] cancel trade button
 - [x] update UI (price withdraw, mint and home)
+- [x] mint - handle pool
