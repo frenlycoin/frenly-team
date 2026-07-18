@@ -4,6 +4,7 @@
 
 ## TODO v1.2
 
+- [ ] restart using only bot
 - [ ] many compound clicks issue
 - [ ] check inactive notifications
 - [ ] numbers formatting
