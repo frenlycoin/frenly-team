@@ -4,8 +4,6 @@
 
 ## TODO v1.1
 
-- [ ] frenly admin - docker
-- [ ] frenly admin - deploy
 - [ ] fix other two cashout notifications
 
 ## TODO v1.2
@@ -263,3 +261,5 @@
 - [x] frenly admin - monitor
 - [x] frenly admin - models
 - [x] frenly admin - frenly devs channel
+- [x] frenly admin - docker
+- [x] frenly admin - deploy
