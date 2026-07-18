@@ -8,6 +8,7 @@
 - [ ] update referral system + referral health
 - [ ] change telegram name reward
 - [ ] build basic FRC and mining
+- [ ] branding cleanup
 
 ## TODO v1.3
 
