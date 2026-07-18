@@ -4,6 +4,7 @@
 
 ## TODO v1.2
 
+- [ ] increase frenly devs subscribers
 - [ ] update referral system + referral health
 - [ ] build basic website
 - [ ] change telegram name reward
