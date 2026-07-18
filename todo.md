@@ -5,7 +5,7 @@
 ## TODO v1.2
 
 - [ ] many compound clicks issue
-- [ ] payout notifications
+- [ ] send payout notifications
 - [ ] check inactive notifications
 - [ ] numbers formatting
 - [ ] increase frenly devs subscribers
