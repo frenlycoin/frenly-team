@@ -4,7 +4,6 @@
 
 ## TODO v1.2
 
-- [ ] restart using only bot
 - [ ] make news regular channel
 - [ ] many compound clicks issue
 - [ ] check inactive notifications
@@ -274,3 +273,4 @@
 - [x] fixed mining time reset on cashout bug
 - [x] number of cycles in payout info
 - [x] send payout notifications
+- [x] restart using only bot
