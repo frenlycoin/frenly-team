@@ -5,7 +5,6 @@
 ## TODO v1.1
 
 - [ ] frenly admin - db stuff
-- [ ] frenly admin - telegram stuff
 - [ ] frenly admin - frenly devs channel
 - [ ] fix other two cashout notifications
 
@@ -258,3 +257,5 @@
 - [x] mint - handle pool
 - [x] trade - more info
 - [x] stats fren price
+- [x] frenly admin - telegram stuff
+- [x] frenly admin - log stuff
