@@ -262,3 +262,4 @@
 - [x] frenly admin - deploy
 - [x] fix other two cashout notifications
 - [x] build basic website
+- [x] fixed mining time reset on cashout bug
