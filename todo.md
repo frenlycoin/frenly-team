@@ -14,7 +14,6 @@
 - [ ] build basic FRC and mining
 - [ ] branding cleanup
 - [ ] backup all important seeds
-- [ ] number of cycles in payout info
 
 ## TODO v1.3
 
@@ -271,3 +270,4 @@
 - [x] fix other two cashout notifications
 - [x] build basic website
 - [x] fixed mining time reset on cashout bug
+- [x] number of cycles in payout info
