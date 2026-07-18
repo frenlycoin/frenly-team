@@ -6,7 +6,6 @@
 
 - [ ] many compound clicks issue
 - [ ] check inactive notifications
-- [ ] numbers formatting
 - [ ] increase frenly devs subscribers
 - [ ] health referral + update referral system
 - [ ] health tasks + tasks system
@@ -275,3 +274,4 @@
 - [x] restart using only bot
 - [x] make news regular channel
 - [x] post delay 2-3 hours
+- [x] numbers formatting
