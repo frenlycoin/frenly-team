@@ -4,7 +4,6 @@
 
 ## TODO v1.1
 
-- [ ] frenly admin - db stuff
 - [ ] frenly admin - frenly devs channel
 - [ ] frenly admin - models
 - [ ] frenly admin - monitor
@@ -263,3 +262,4 @@
 - [x] stats fren price
 - [x] frenly admin - telegram stuff
 - [x] frenly admin - log stuff
+- [x] frenly admin - db stuff
