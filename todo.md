@@ -171,7 +171,7 @@
 - [x] check command
 - [x] group welcome message
 - [x] update about - explain 1% better
-- [x] update about generally
+- [x] update about generallytime.Hour
 - [x] write additional texts
 - [x] update welcome
 - [x] ton daily competition
@@ -274,3 +274,4 @@
 - [x] send payout notifications
 - [x] restart using only bot
 - [x] make news regular channel
+- [x] post delay 2-3 hours
