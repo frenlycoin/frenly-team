@@ -15,6 +15,7 @@
 
 ## TODO v1.3
 
+- [ ] handle new users through boost
 - [ ] better website
 - [ ] boost - new user flow
 - [ ] new health scheme
