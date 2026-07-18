@@ -14,6 +14,9 @@
 - [ ] build basic FRC and mining
 - [ ] branding cleanup
 - [ ] backup all important seeds
+- [ ] add more channels and posts
+- [ ] notification on anonsrobot
+- [ ] notification on anoterobot
 
 ## TODO v1.3
 
@@ -24,8 +27,6 @@
 - [ ] health notification
 - [ ] subscribe task with FRENs reward
 - [ ] cash out limit with redirect
-- [ ] notification on anonsrobot
-- [ ] notification on anoterobot
 - [ ] notification for each post
 - [ ] update about - token
 - [ ] app - referral stats
