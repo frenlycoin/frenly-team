@@ -5,6 +5,7 @@
 ## TODO v1.2
 
 - [ ] restart using only bot
+- [ ] make news regular channel
 - [ ] many compound clicks issue
 - [ ] check inactive notifications
 - [ ] numbers formatting
