@@ -15,7 +15,7 @@
 
 - [ ] better website
 - [ ] boost - new user flow
-- [ ] new health scheme / restart
+- [ ] new health scheme
 - [ ] health notification
 - [ ] subscribe task with 0.01 FREN reward
 - [ ] cash out limit with redirect
