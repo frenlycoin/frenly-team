@@ -14,6 +14,7 @@
 - [ ] build basic FRC and mining
 - [ ] branding cleanup
 - [ ] backup all important seeds
+- [ ] number of cycles in payout info
 
 ## TODO v1.3
 
