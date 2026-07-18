@@ -5,7 +5,6 @@
 ## TODO v1.2
 
 - [ ] many compound clicks issue
-- [ ] send payout notifications
 - [ ] check inactive notifications
 - [ ] numbers formatting
 - [ ] increase frenly devs subscribers
@@ -272,3 +271,4 @@
 - [x] build basic website
 - [x] fixed mining time reset on cashout bug
 - [x] number of cycles in payout info
+- [x] send payout notifications
