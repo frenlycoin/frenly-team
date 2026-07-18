@@ -4,7 +4,6 @@
 
 ## TODO v1.2
 
-- [ ] make news regular channel
 - [ ] many compound clicks issue
 - [ ] check inactive notifications
 - [ ] numbers formatting
@@ -274,3 +273,4 @@
 - [x] number of cycles in payout info
 - [x] send payout notifications
 - [x] restart using only bot
+- [x] make news regular channel
