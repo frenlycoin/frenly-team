@@ -4,6 +4,8 @@
 
 ## TODO v1.2
 
+- [ ] payout notifications
+- [ ] check inactive notifications
 - [ ] numbers formatting
 - [ ] increase frenly devs subscribers
 - [ ] update referral system + referral health
@@ -17,7 +19,7 @@
 - [ ] boost - new user flow
 - [ ] new health scheme
 - [ ] health notification
-- [ ] subscribe task with 0.01 FREN reward
+- [ ] subscribe task with FRENs reward
 - [ ] cash out limit with redirect
 - [ ] notification on anonsrobot
 - [ ] notification on anoterobot
