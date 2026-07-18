@@ -2,10 +2,6 @@
 
 ## FrenlyCoin
 
-## TODO v1.1
-
-- [ ] fix other two cashout notifications
-
 ## TODO v1.2
 
 - [ ] update referral system + referral health
@@ -263,3 +259,4 @@
 - [x] frenly admin - frenly devs channel
 - [x] frenly admin - docker
 - [x] frenly admin - deploy
+- [x] fix other two cashout notifications
