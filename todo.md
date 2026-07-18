@@ -8,8 +8,9 @@
 - [ ] check inactive notifications
 - [ ] numbers formatting
 - [ ] increase frenly devs subscribers
-- [ ] update referral system + referral health
-- [ ] change telegram name reward
+- [ ] health referral + update referral system
+- [ ] health tasks + tasks system
+- [ ] task - change telegram name
 - [ ] build basic FRC and mining
 - [ ] branding cleanup
 - [ ] backup all important seeds
@@ -24,7 +25,6 @@
 - [ ] boost - new user flow
 - [ ] new health scheme
 - [ ] health notification
-- [ ] subscribe task with FRENs reward
 - [ ] cash out limit with redirect
 - [ ] notification for each post
 - [ ] update about - token
