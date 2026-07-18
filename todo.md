@@ -6,7 +6,6 @@
 
 - [ ] frenly admin - frenly devs channel
 - [ ] frenly admin - models
-- [ ] frenly admin - monitor
 - [ ] frenly admin - docker
 - [ ] frenly admin - deploy
 - [ ] fix other two cashout notifications
@@ -263,3 +262,4 @@
 - [x] frenly admin - telegram stuff
 - [x] frenly admin - log stuff
 - [x] frenly admin - db stuff
+- [x] frenly admin - monitor
