@@ -4,6 +4,7 @@
 
 ## TODO v1.2
 
+- [ ] numbers formatting
 - [ ] increase frenly devs subscribers
 - [ ] update referral system + referral health
 - [ ] change telegram name reward
