@@ -11,6 +11,7 @@
 
 ## TODO v1.3
 
+- [ ] better website
 - [ ] boost - new user flow
 - [ ] new health scheme / restart
 - [ ] health notification
