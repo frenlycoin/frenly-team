@@ -12,6 +12,7 @@
 - [ ] change telegram name reward
 - [ ] build basic FRC and mining
 - [ ] branding cleanup
+- [ ] backup all important seeds
 
 ## TODO v1.3
 
