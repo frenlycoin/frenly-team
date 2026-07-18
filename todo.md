@@ -6,7 +6,6 @@
 
 - [ ] increase frenly devs subscribers
 - [ ] update referral system + referral health
-- [ ] build basic website
 - [ ] change telegram name reward
 - [ ] build basic FRC and mining
 
@@ -261,3 +260,4 @@
 - [x] frenly admin - docker
 - [x] frenly admin - deploy
 - [x] fix other two cashout notifications
+- [x] build basic website
