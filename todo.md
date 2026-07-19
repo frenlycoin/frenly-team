@@ -4,6 +4,7 @@
 
 ## TODO v1.2
 
+- [ ] reward calc bug
 - [ ] frenly admin - publish news
 - [ ] many compound clicks issue
 - [ ] check inactive notifications
