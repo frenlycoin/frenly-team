@@ -278,3 +278,4 @@
 - [x] numbers formatting
 - [x] website - favicon
 - [x] reward calc bug
+- [x] ton eco aggregator on frenlyton
