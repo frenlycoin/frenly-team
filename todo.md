@@ -4,7 +4,6 @@
 
 ## TODO v1.2
 
-- [ ] reward calc bug
 - [ ] frenly admin - publish news
 - [ ] many compound clicks issue
 - [ ] check inactive notifications
@@ -278,3 +277,4 @@
 - [x] post delay 2-3 hours
 - [x] numbers formatting
 - [x] website - favicon
+- [x] reward calc bug
