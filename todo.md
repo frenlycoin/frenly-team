@@ -275,3 +275,4 @@
 - [x] make news regular channel
 - [x] post delay 2-3 hours
 - [x] numbers formatting
+- [x] website - favicon
