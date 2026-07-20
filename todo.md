@@ -4,10 +4,6 @@
 
 ## TODO v1.2
 
-- [ ] website - tech section
-- [ ] website - socials
-- [ ] website - footer
-- [ ] website - FAQ
 - [ ] check user by forward
 - [ ] frenly admin - publish news
 - [ ] many compound clicks issue
@@ -288,3 +284,7 @@
 - [x] SEO work - Google tools
 - [x] increase frenly ton subscribers
 - [x] website - menu
+- [x] website - tech section
+- [x] website - socials
+- [x] website - footer
+- [x] website - FAQ
