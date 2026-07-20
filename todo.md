@@ -282,3 +282,4 @@
 - [x] reward calc bug
 - [x] ton eco aggregator on frenlyton
 - [x] SEO work - website link
+- [x] SEO work - Google tools
