@@ -18,6 +18,7 @@
 - [ ] add more channels and posts
 - [ ] notification on anonsrobot
 - [ ] notification on anoterobot
+- [ ] our own forwarder
 
 ## TODO v1.3
 
