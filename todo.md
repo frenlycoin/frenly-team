@@ -8,7 +8,6 @@
 - [ ] frenly admin - publish news
 - [ ] many compound clicks issue
 - [ ] check inactive notifications
-- [ ] increase frenly devs subscribers
 - [ ] health referral + update referral system
 - [ ] health tasks + tasks system
 - [ ] task - change telegram name
@@ -283,3 +282,4 @@
 - [x] ton eco aggregator on frenlyton
 - [x] SEO work - website link
 - [x] SEO work - Google tools
+- [x] increase frenly ton subscribers
