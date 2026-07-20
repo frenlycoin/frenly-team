@@ -4,7 +4,6 @@
 
 ## TODO v1.2
 
-- [ ] website - about section
 - [ ] check user by forward
 - [ ] frenly admin - publish news
 - [ ] many compound clicks issue
@@ -290,3 +289,4 @@
 - [x] website - footer
 - [x] website - FAQ
 - [x] website - logo
+- [X] website - about section
