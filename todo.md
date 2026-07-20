@@ -4,6 +4,7 @@
 
 ## TODO v1.2
 
+- [ ] update texts in app and bot
 - [ ] check user by forward
 - [ ] frenly admin - publish news
 - [ ] many compound clicks issue
