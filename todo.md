@@ -4,6 +4,7 @@
 
 ## TODO v1.2
 
+- [ ] make the app fullscreen
 - [ ] update texts in app and bot
 - [ ] frenly admin - publish news
 - [ ] many compound clicks issue
