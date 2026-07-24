@@ -4,6 +4,7 @@
 
 ## TODO v1.2
 
+- [ ] check all flows
 - [ ] update texts in app and bot
 - [ ] frenly admin - publish news
 - [ ] many compound clicks issue
