@@ -9,7 +9,7 @@
 - [ ] frenly admin - publish news
 - [ ] many compound clicks issue
 - [ ] check inactive notifications
-- [ ] health referral + update referral system
+- [ ] update referral system
 - [ ] tasks system
 - [ ] task - change telegram name
 - [ ] build basic FRC and mining
@@ -294,3 +294,4 @@
 - [x] check user by forward
 - [x] make the app fullscreen
 - [x] prepare new layout
+- [x] health referral
