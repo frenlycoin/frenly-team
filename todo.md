@@ -24,8 +24,6 @@
 
 - [ ] handle new users through boost
 - [ ] more info on website
-- [ ] boost - new user flow
-- [ ] new health scheme
 - [ ] health notification
 - [ ] cash out limit with redirect
 - [ ] notification for each post
@@ -297,3 +295,5 @@
 - [x] health referral
 - [x] update referral system
 - [x] better website
+- [x] boost - new user flow
+- [x] new health scheme
