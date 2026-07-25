@@ -16,12 +16,10 @@
 - [ ] branding cleanup
 - [ ] backup all important seeds
 - [ ] add more channels and posts
-- [ ] notification on anonsrobot
-- [ ] notification on anoterobot
-- [ ] our own forwarder
 
 ## TODO v1.3
 
+- [ ] our own forwarder
 - [ ] handle new users through boost
 - [ ] more info on website
 - [ ] health notification
@@ -32,6 +30,8 @@
 - [ ] automatic daily mining cycle
 - [ ] premium package
 - [ ] secure everything
+- [ ] notification on anonsrobot
+- [ ] notification on anoterobot
 
 ## BACKLOG
 
