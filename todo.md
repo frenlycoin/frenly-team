@@ -293,3 +293,4 @@
 - [X] website - about section
 - [x] check user by forward
 - [x] make the app fullscreen
+- [x] prepare new layout
