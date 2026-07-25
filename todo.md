@@ -4,6 +4,7 @@
 
 ## TODO v1.2
 
+- [ ] merge and deploy referral system
 - [ ] check all flows
 - [ ] update texts in app and bot
 - [ ] frenly admin - publish news
