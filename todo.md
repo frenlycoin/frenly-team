@@ -4,7 +4,6 @@
 
 ## TODO v1.2
 
-- [ ] boost issue
 - [ ] make sure to count referral reward in everywhere
 - [ ] check all flows
 - [ ] update texts in app and bot
@@ -299,3 +298,4 @@
 - [x] app - referral stats
 - [x] bottom buttons redesign
 - [x] merge and deploy referral system
+- [x] boost issue
