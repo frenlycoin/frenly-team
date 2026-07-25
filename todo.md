@@ -4,7 +4,6 @@
 
 ## TODO v1.2
 
-- [ ] merge and deploy referral system
 - [ ] check all flows
 - [ ] update texts in app and bot
 - [ ] frenly admin - publish news
@@ -297,3 +296,4 @@
 - [x] new health scheme
 - [x] app - referral stats
 - [x] bottom buttons redesign
+- [x] merge and deploy referral system
