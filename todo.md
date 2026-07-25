@@ -44,7 +44,6 @@
 - [ ] add more FAQ entries
 - [ ] send compounding notification
 - [ ] filter fake users?
-- [ ] both bottom buttons check
 - [ ] db backup
 - [ ] withdrawal - comment
 - [ ] make UI more consistent
@@ -297,3 +296,4 @@
 - [x] boost - new user flow
 - [x] new health scheme
 - [x] app - referral stats
+- [x] bottom buttons redesign
