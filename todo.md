@@ -4,6 +4,7 @@
 
 ## TODO v1.2
 
+- [ ] make sure to count referral reward in everywhere
 - [ ] check all flows
 - [ ] update texts in app and bot
 - [ ] frenly admin - publish news
