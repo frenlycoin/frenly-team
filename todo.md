@@ -39,7 +39,6 @@
 - [ ] 3rd party channel referrals
 - [ ] fb contests
 - [ ] last boost restart if needed
-- [ ] mining cycle issue (midnight)
 - [ ] ignore blocked
 - [ ] add more FAQ entries
 - [ ] send compounding notification
@@ -299,3 +298,4 @@
 - [x] bottom buttons redesign
 - [x] merge and deploy referral system
 - [x] boost issue
+- [x] mining cycle issue (midnight)
