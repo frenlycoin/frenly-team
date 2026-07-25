@@ -23,7 +23,7 @@
 ## TODO v1.3
 
 - [ ] handle new users through boost
-- [ ] better website
+- [ ] more info on website
 - [ ] boost - new user flow
 - [ ] new health scheme
 - [ ] health notification
@@ -296,3 +296,4 @@
 - [x] prepare new layout
 - [x] health referral
 - [x] update referral system
+- [x] better website
