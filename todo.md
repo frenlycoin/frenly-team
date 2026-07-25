@@ -10,7 +10,7 @@
 - [ ] many compound clicks issue
 - [ ] check inactive notifications
 - [ ] health referral + update referral system
-- [ ] health tasks + tasks system
+- [ ] tasks system
 - [ ] task - change telegram name
 - [ ] build basic FRC and mining
 - [ ] branding cleanup
