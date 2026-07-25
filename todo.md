@@ -28,7 +28,6 @@
 - [ ] cash out limit with redirect
 - [ ] notification for each post
 - [ ] update about - token
-- [ ] app - referral stats
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
 - [ ] premium package
@@ -297,3 +296,4 @@
 - [x] better website
 - [x] boost - new user flow
 - [x] new health scheme
+- [x] app - referral stats
