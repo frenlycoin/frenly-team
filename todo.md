@@ -13,7 +13,6 @@
 - [ ] check inactive notifications
 - [ ] tasks system
 - [ ] task - change telegram name
-- [ ] build basic FRC and mining
 - [ ] branding cleanup
 - [ ] backup all important seeds
 - [ ] automatic FrenlyNews
@@ -21,6 +20,7 @@
 
 ## TODO v1.3
 
+- [ ] build basic FRC and mining
 - [ ] our own forwarder
 - [ ] more info on website
 - [ ] health notification
