@@ -4,6 +4,7 @@
 
 ## TODO v1.2
 
+- [ ] fix FrenlyNews announcements
 - [ ] make sure to count referral reward everywhere
 - [ ] check all flows
 - [ ] update texts in app and bot
