@@ -6,7 +6,7 @@
 
 - [ ] fix FrenlyNews announcements
 - [ ] make sure to count referral reward everywhere
-- [ ] check all flows
+- [ ] check all flows (new user - boost, bot, app; restart)
 - [ ] update texts in app and bot
 - [ ] frenly admin - publish news
 - [ ] many compound clicks issue
@@ -22,7 +22,6 @@
 ## TODO v1.3
 
 - [ ] our own forwarder
-- [ ] handle new users through boost
 - [ ] more info on website
 - [ ] health notification
 - [ ] cash out limit with redirect
