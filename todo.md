@@ -16,7 +16,8 @@
 - [ ] build basic FRC and mining
 - [ ] branding cleanup
 - [ ] backup all important seeds
-- [ ] add more channels and posts
+- [ ] automatic FrenlyNews
+- [ ] automatic FrenlyCrypto
 
 ## TODO v1.3
 
