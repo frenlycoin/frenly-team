@@ -300,3 +300,4 @@
 - [x] merge and deploy referral system
 - [x] boost issue
 - [x] mining cycle issue (midnight)
+- [x] bot buttons
