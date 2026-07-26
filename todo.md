@@ -8,7 +8,6 @@
 - [ ] make sure to count referral reward everywhere
 - [ ] check all flows (new user - boost, bot, app; restart)
 - [ ] update texts in app and bot
-- [ ] frenly admin - publish news
 - [ ] many compound clicks issue
 - [ ] check inactive notifications
 - [ ] tasks system
