@@ -11,7 +11,6 @@
 - [ ] check inactive notifications
 - [ ] tasks system
 - [ ] task - change telegram name
-- [ ] branding cleanup
 - [ ] backup all important seeds
 - [ ] automatic FrenlyNews
 - [ ] automatic FrenlyCrypto
@@ -300,3 +299,4 @@
 - [x] mining cycle issue (midnight)
 - [x] bot buttons
 - [x] make sure to count referral reward everywhere
+- [x] branding cleanup
