@@ -5,7 +5,6 @@
 ## TODO v1.2
 
 - [ ] fix FrenlyNews announcements
-- [ ] make sure to count referral reward everywhere
 - [ ] check all flows (new user - boost, bot, app; restart)
 - [ ] update texts in app and bot
 - [ ] many compound clicks issue
@@ -300,3 +299,4 @@
 - [x] boost issue
 - [x] mining cycle issue (midnight)
 - [x] bot buttons
+- [x] make sure to count referral reward everywhere
