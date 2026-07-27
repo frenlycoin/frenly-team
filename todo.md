@@ -4,6 +4,7 @@
 
 ## TODO v1.2
 
+- [ ] referral activated
 - [ ] add restart button to news post
 - [ ] fix FrenlyNews announcements
 - [ ] check all flows (new user - boost, bot, app; restart)
