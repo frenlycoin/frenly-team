@@ -7,7 +7,6 @@
 - [ ] referral activated
 - [ ] check all flows (new user - boost, bot, app; restart)
 - [ ] update texts in app and bot
-- [ ] many compound clicks issue
 - [ ] check inactive notifications
 - [ ] tasks system
 - [ ] task - change telegram name
@@ -302,3 +301,4 @@
 - [x] branding cleanup
 - [x] add restart button to news post
 - [x] fix FrenlyNews announcements
+- [x] many compound clicks issue
