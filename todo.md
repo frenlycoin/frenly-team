@@ -5,7 +5,6 @@
 ## TODO v1.2
 
 - [ ] referral activated
-- [ ] fix FrenlyNews announcements
 - [ ] check all flows (new user - boost, bot, app; restart)
 - [ ] update texts in app and bot
 - [ ] many compound clicks issue
@@ -302,3 +301,4 @@
 - [x] make sure to count referral reward everywhere
 - [x] branding cleanup
 - [x] add restart button to news post
+- [x] fix FrenlyNews announcements
