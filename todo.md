@@ -4,6 +4,7 @@
 
 ## TODO v1.2
 
+- [ ] save reward on restart
 - [ ] automatic Frenly Life
 - [ ] automatic Frenly Astro
 - [ ] automatic Frenly News
