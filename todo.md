@@ -4,7 +4,6 @@
 
 ## TODO v1.2
 
-- [ ] automatic FrenlyCrypto
 - [ ] automatic FrenlyNews
 - [ ] check all flows (new user - boost, bot, app; restart)
 - [ ] update texts in app and bot
@@ -302,3 +301,4 @@
 - [x] fix FrenlyNews announcements
 - [x] many compound clicks issue
 - [x] referral activated
+- [x] automatic FrenlyCrypto
