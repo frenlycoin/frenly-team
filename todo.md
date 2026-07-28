@@ -4,7 +4,8 @@
 
 ## TODO v1.2
 
-- [ ] automatic FrenlyNews
+- [ ] automatic Frenly Life
+- [ ] automatic Frenly News
 - [ ] check all flows (new user - boost, bot, app; restart)
 - [ ] update texts in app and bot
 - [ ] check inactive notifications
