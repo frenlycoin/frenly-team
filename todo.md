@@ -4,14 +4,14 @@
 
 ## TODO v1.2
 
+- [ ] automatic FrenlyCrypto
+- [ ] automatic FrenlyNews
 - [ ] check all flows (new user - boost, bot, app; restart)
 - [ ] update texts in app and bot
 - [ ] check inactive notifications
 - [ ] tasks system
 - [ ] task - change telegram name
 - [ ] backup all important seeds
-- [ ] automatic FrenlyNews
-- [ ] automatic FrenlyCrypto
 
 ## TODO v1.3
 
