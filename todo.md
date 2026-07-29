@@ -5,7 +5,6 @@
 ## TODO v1.2
 
 - [ ] save reward on restart
-- [ ] automatic Frenly Life
 - [ ] automatic Frenly Astro
 - [ ] automatic Frenly News
 - [ ] check all flows (new user - boost, bot, app; restart)
@@ -305,3 +304,4 @@
 - [x] many compound clicks issue
 - [x] referral activated
 - [x] automatic FrenlyCrypto
+- [x] automatic Frenly Life
