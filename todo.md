@@ -12,6 +12,7 @@
 - [ ] tasks system
 - [ ] task - change telegram name
 - [ ] backup all important seeds
+- [ ] price grow notification
 
 ## TODO v1.3
 
