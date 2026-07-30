@@ -5,7 +5,6 @@
 ## TODO v1.2
 
 - [ ] save reward on restart
-- [ ] automatic Frenly News
 - [ ] check all flows (new user - boost, bot, app; restart)
 - [ ] update texts in app and bot
 - [ ] check inactive notifications
@@ -306,3 +305,4 @@
 - [x] automatic Frenly Life
 - [x] automatic Frenly Astro
 - [x] backup all important seeds
+- [x] automatic Frenly News
