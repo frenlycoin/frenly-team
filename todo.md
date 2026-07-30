@@ -11,7 +11,6 @@
 - [ ] check inactive notifications
 - [ ] tasks system
 - [ ] task - change telegram name
-- [ ] backup all important seeds
 - [ ] price grow notification
 
 ## TODO v1.3
@@ -306,3 +305,4 @@
 - [x] automatic FrenlyCrypto
 - [x] automatic Frenly Life
 - [x] automatic Frenly Astro
+- [x] backup all important seeds
